@@ -12,7 +12,7 @@ import org.json.simple.parser.ParseException;
  */
 /**
  *
- * @author mateu
+ * @author mateus
  */
 public class main {
 
